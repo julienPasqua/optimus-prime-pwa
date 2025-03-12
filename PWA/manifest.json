@@ -1,0 +1,15 @@
+{
+    "name": "PWA projet",
+    "short_name": "robot autonome",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffcc00",
+    "icons": [
+        {
+            "src": "src/img/png-clipart-autobot-decal-logo-optimus-prime-sticker-bumblebee-transformer-logo-text-logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
